@@ -1,1 +1,1 @@
-# launcherhtnews
+# launcherht-news
